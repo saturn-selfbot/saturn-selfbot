@@ -1,0 +1,8 @@
+{
+  "status": true,
+  "logging": {
+    "console": {
+        "status": true
+    }
+  }
+}

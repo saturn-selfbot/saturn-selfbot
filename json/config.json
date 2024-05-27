@@ -1,0 +1,12 @@
+{
+  "commands": {
+    "deletetimer": 25,
+    "prefix": "."
+  },
+  "logging": {
+    "console": {
+      "status": true
+    }
+  },
+  "token": ""
+}
